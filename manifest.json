@@ -1,0 +1,16 @@
+{
+    "name": "Loving Every Bites",
+    "short_name": "FoodSite",
+    "icons": [
+      {
+        "src": "favicon_LovingEveryBites.ico",
+        "sizes": "48x48 72x72 96x96 144x144 192x192",
+        "type": "image/x-icon"
+      }
+    ],
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff"
+  }
+  
