@@ -108,6 +108,10 @@ p {
 .food{
     padding:20px 25%;
 }
+.food img{
+    margin: auto;
+    display: block;
+}
 
 .recommend_shop{
     padding:20px 25%;
@@ -116,4 +120,10 @@ p {
     width:40%;
     padding-left: 200px;
 }
-
+.shop_guide{
+    display: flex;
+}
+.shop_details{
+    max-width: 30%;
+    margin-left: 20px;
+}
